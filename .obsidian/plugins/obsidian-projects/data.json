@@ -1,0 +1,196 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Tananyagok",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 424
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Folyamatban"
+                }
+              },
+              {
+                "color": "#00ff00",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Befejezve"
+                }
+              },
+              {
+                "color": "#ffff00",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Feladat"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "♾️🗓️♾️",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "b2561d9f-ad0f-48c0-a28f-e0f00c5f497e",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "♾️🏁♾️",
+            "includeFields": [],
+            "columns": {
+              "Feladat": {
+                "weight": 0
+              },
+              "Folyamatban": {
+                "weight": 1
+              },
+              "Befejezve": {
+                "weight": 2
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Folyamatban"
+                }
+              },
+              {
+                "color": "#00ff00",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Befejezve"
+                }
+              },
+              {
+                "color": "#ffff00",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Feladat"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "♾️🗓️♾️",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "37bf362a-2cdd-45ff-8701-1b3eb844e828",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Folyamatban"
+                }
+              },
+              {
+                "color": "#00ff00",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Befejezve"
+                }
+              },
+              {
+                "color": "#ffff00",
+                "condition": {
+                  "field": "♾️🏁♾️",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Feladat"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c7825791-9420-4567-a973-23236ee1ce83",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "8351505d-edf3-40e2-87f9-9aaee096ee73",
+      "name": "Tananyagok"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,1 @@
+[[Obsidian tutorial|vissza]]

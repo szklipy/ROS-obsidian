@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "681e4cadc30d18ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a909feabb6e780c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3608960a2af636d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segítség/Obsidian/Obsidian tutorial.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3a520e4bd6184a77",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e23d46d2d7cf5680",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2fc3b45258d85e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8a6f7d067a57a3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d56a9208f19f6b93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2e9a08666da33c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "16aca1fcc46eeb1f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "710130c5f34eb2b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c95073b4b70b415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95c0057f7425999a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Segítség/Obsidian/Obsidian tutorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b248f12ff0590a85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Segítség/Obsidian/Obsidian tutorial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "910cce9b86c38183",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8858865f918b426c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Segítség/Obsidian/Obsidian tutorial.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e3608960a2af636d",
+  "lastOpenFiles": [
+    "[[projects.png]].md",
+    "Segítség/Obsidian/Obsidian tutorial.md",
+    "Egyéb/Képek/projects.png",
+    "Kezdőlap.md",
+    "Fejlett robotprogramozás ROS környezetben/Tananyagok/1. óra.md",
+    "Tananyagok/Verziókövetés, Git. Projekt labor II..md",
+    "Tananyagok/ROS service, ROS action fogalma, felhasználása I..md",
+    "Tananyagok/ROS 2 Launch, Param, Bag.md",
+    "Tananyagok/Robotikai alapfogalmak, da Vinci sebészrobot programozása szimulált környezetben II..md",
+    "Tananyagok/Robotikai alapfogalmak, da Vinci sebészrobot programozása szimulált környezetben I..md",
+    "Tananyagok/Python alapok. ROS kommunikáció implementációjának gyakorlása, példafeladatok megoldása..md",
+    "Tananyagok/Követelmények ismertetése. ROS bevezetés. Fejlesztőkörnyezet felállítása..md",
+    "Tananyagok/Kinematika, inverz kinematika, szimulált robotkar programozása csukló-, és munkatérben II..md",
+    "Tananyagok/Kinematika, inverz kinematika, szimulált robotkar programozása csukló-, és munkatérben I..md",
+    "Tananyagok/1. óra.md",
+    "Tananyagok",
+    "Segítség/Obsidian/Templater.md",
+    "Segítség/Obsidian",
+    "Segítség/GitHub tutorial.md",
+    "Segítség",
+    "Kötelező program/Témák.md",
+    "Kötelező program/Kötelező program.md",
+    "Kötelező program/Kötelező program leírás.md",
+    "Kötelező program",
+    "Egyéb/Minták/name.md",
+    "Egyéb/Képek/quickviewlink.png",
+    "Egyéb/test note.md",
+    "Egyéb/Minták",
+    "Egyéb/Képek",
+    "Egyéb",
+    "Fejlett robotprogramozás ROS környezetben/Tananyagok/Kinematika, inverz kinematika, szimulált robotkar programozása csukló-, és munkatérben I..md",
+    "Fejlett robotprogramozás ROS környezetben/Tananyagok/Verziókövetés, Git. Projekt labor II..md",
+    "Fejlett robotprogramozás ROS környezetben/Tananyagok/ROS service, ROS action fogalma, felhasználása I..md",
+    "Fejlett robotprogramozás ROS környezetben/Tananyagok/ROS 2 Launch, Param, Bag.md",
+    "Fejlett robotprogramozás ROS környezetben/Tananyagok/Robotikai alapfogalmak, da Vinci sebészrobot programozása szimulált környezetben I..md"
+  ]
+}
